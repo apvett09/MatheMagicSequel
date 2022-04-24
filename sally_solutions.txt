@@ -1,0 +1,4 @@
+radius 5.0:	Circle's circumference is 31.42 and area is 78.54
+sides 4.0, 4.0:	Rectangle's perimeter is 16.00 and area is 16.00
+radius 5.0:	Circle's circumference is 31.42 and area is 78.54
+sides 5.0, 6.0:	Rectangle's perimeter is 22.00 and area is 30.00

@@ -1,0 +1,3 @@
+radius 2.0:	Circle's circumference is 12.57 and area is 12.57
+radius 9.0:	Circle's circumference is 56.55 and area is 254.47
+radius 99.0:	Circle's circumference is 622.04 and area is 30790.75
